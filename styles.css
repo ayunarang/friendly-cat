@@ -1,0 +1,204 @@
+
+
+
+
+.girl{
+
+    height: 20px;
+    background-color: #E7F6F2;
+
+}
+.girlimg{
+    height: 60px;
+    width: 60px;
+    margin-right: 100px;
+    margin-top: 30px;
+    padding-right: 50px;
+   
+    
+
+}
+ul {
+    list-style-type: none;
+    margin-left: 340px;
+    padding: 0;
+    width: 40%;
+    text-align: right;
+    display: inline-block;
+  }
+  li{
+    color: #A5C9CA;
+    font-family:'Montserrat', sans-serif ;
+    display: inline-block;
+    
+  }
+
+
+
+
+h1{
+    margin: 0% ;
+    padding-top: 165px;
+    padding-bottom: 10px;
+    font-family: 'Sacramento', 'cursive';
+    font-size: 60px;
+}
+h2{
+    color: #395B64;
+    text-align: center;
+
+}
+h3{
+    color: #395B64;
+    margin: auto;
+}
+body{
+    margin: 0% ;
+    text-align: center;
+    
+    font-family: 'Montserrat', sans-serif;
+    color: #395B64;
+    
+
+
+}
+
+.top:hover{
+color: #395B64;
+}
+
+
+
+
+hr{
+    border: dotted 6px #EEEEEE;
+    border-bottom: none;
+    width: 5%;
+    margin: 50px auto 50px auto;
+}
+
+p{
+    color: #A5C9CA;
+    line-height: 2;
+    width: 300px ;
+    
+    
+   
+    
+}
+a{
+    color: #A5C9CA;
+    text-decoration: none;
+    font-family:'Montserrat', sans-serif; 
+    margin: 10px 20px;
+    
+}
+a:hover{
+    color: #E7F6F2;
+    
+}
+ 
+  
+  
+ .des{
+    margin: 30px auto 50px auto;
+ }
+  
+  .top-container{
+    background-color: #E7F6F2;
+    padding: 0;
+    height: 797px;
+}
+.middle-container{
+    padding: 50px;
+}
+
+.mountains{
+    width: 520px;
+    height: 470px;
+    margin: 30px auto 0px auto;
+}
+.profilepic{
+    width: 100px;
+    height: 100px;
+    
+    
+}
+.intro{
+    margin: auto;
+    width: 50%;
+
+}
+.skills{
+    
+    margin: auto;
+    
+}
+.skill-row{
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 2 ;
+    
+   
+    
+}
+.coding-skill{
+    float: right;
+    margin-left: 30px;
+    width: 25%;
+    
+    
+
+
+}
+.speaking{
+    float: right;
+    margin-left: 30px;
+   
+   
+    width: 25%;
+   
+}
+.bottom-container{
+    background-color: #395B64;
+    padding: 30px 0 35px;
+   
+    text-align: center;
+
+
+    
+
+  }
+.contact-me{
+    margin: auto;
+}   
+.btn {
+    background: #96c7e6;
+    background-image: -webkit-linear-gradient(top, #96c7e6, #A5C9CA);
+    background-image: -moz-linear-gradient(top, #96c7e6, #A5C9CA);
+    background-image: -ms-linear-gradient(top, #96c7e6, #A5C9CA);
+    background-image: -o-linear-gradient(top, #96c7e6, #A5C9CA);
+    background-image: linear-gradient(to bottom, #96c7e6, #A5C9CA);
+    -webkit-border-radius: 13;
+    -moz-border-radius: 13;
+    border-radius: 13px;
+    font-family:  'Montserrat', sans-serif;
+    color: white;
+    font-size: 15px;
+    padding: 10px 12px 10px 12px;
+    text-decoration: none;
+    margin: auto;
+  }
+  
+  .btn:hover {
+    background: #A5C9CA;
+    text-decoration: none;
+  }
+  .copyright{
+    color: gainsboro;
+    font-family:'Montserrat', sans-serif ;
+    font-size: small;
+    margin: auto;
+    padding-top: 10px;
+  }
