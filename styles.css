@@ -10,10 +10,9 @@
     margin-right: 100px;
     margin-top: 30px;
     padding-right: 50px;
-   
-    
-
+ 
 }
+
 ul {
     list-style-type: none;
     margin-left: 340px;
@@ -30,8 +29,6 @@ ul {
   }
 
 
-
-
 h1{
     margin: 0% ;
     padding-top: 165px;
@@ -42,6 +39,7 @@ h1{
 h2{
     color: #395B64;
     text-align: center;
+    font-weight: 600;
 
 }
 h3{
@@ -64,8 +62,6 @@ color: #395B64;
 }
 
 
-
-
 hr{
     border: dotted 6px #EEEEEE;
     border-bottom: none;
@@ -77,11 +73,9 @@ p{
     color: #A5C9CA;
     line-height: 2;
     width: 300px ;
-    
-    
-   
-    
+
 }
+
 a{
     color: #A5C9CA;
     text-decoration: none;
@@ -94,8 +88,6 @@ a:hover{
     
 }
  
-  
-  
  .des{
     margin: 9px auto;
  }
@@ -105,64 +97,57 @@ a:hover{
     padding: 0;
     height: 710px;
 }
+
 .middle-container{
     padding: 0px;}
+
 
 .mountains{
     width: 520px;
     height: 470px;
     margin: 0px auto;
 }
+
 .profilepic{
     width: 100px;
-    height: 100px;
-    
-    
+    height: 100px;    
 }
+
 .intro{
     margin: auto;
     width: 50%;
 
 }
+
 .skills{
     
     margin: auto;
-    
 }
+
 .skill-row{
     width: 50%;
-    margin: 100px auto 100px auto;
+    margin: 80px auto;
     text-align: left;
     line-height: 2 ;
-    
-   
-    
 }
+
 .coding-skill{
     float: right;
     margin-left: 30px;
     width: 25%;
-    
-    
-
-
 }
+
 .speaking{
     float: right;
     margin-left: 30px;
-   
-   
     width: 25%;
    
 }
+
 .bottom-container{
     background-color: #395B64;
-    padding: 30px 0 35px;
-   
+    padding: 30px 0 35px;  
     text-align: center;
-
-
-    
 
   }
 .contact-me{
