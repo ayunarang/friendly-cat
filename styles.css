@@ -39,12 +39,13 @@ h1{
 h2{
     color: #395B64;
     text-align: center;
-    font-weight: 600;
+    font-weight: bold;
 
 }
 h3{
     color: #395B64;
     margin: auto;
+    font-weight: 400;
 }
 body{
     margin: 0% ;
